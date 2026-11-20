@@ -2,7 +2,7 @@
 
 A mobile-first web application built to streamline attendance tracking, statistical analysis, and automated reporting for sewadars in Indore.
 
-**Live App:** https://rssb-indore.github.io
+**Live App:** [https://rssb-indore.github.io/](https://rssb-indore.github.io/)
 
 ## Key Features
 - **Multi-Month Attendance Compilation:** Tracks and consolidates attendance records across multiple months directly from a Google Sheets database.
